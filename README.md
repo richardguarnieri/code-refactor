@@ -1,5 +1,5 @@
-# Horiseo Code Refactoring
-Horiseo is a marketing agency requiring its webpage to follow accessibility standards in order to optimize it for search engines
+# Horiseon Code Refactoring
+Horiseon is a marketing agency requiring its webpage to follow accessibility standards in order to optimize it for search engines
 
 ## Refactoring
 When working with this code, I did the utmost to adhere to the **Scout Rule** — which says to always leave the code a little cleaner than when you found it.
