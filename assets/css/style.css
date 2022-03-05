@@ -45,9 +45,9 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* HERO DIV WITH BACKGROUND IMAGE */
+/* BANNER DIV WITH BACKGROUND IMAGE */
 
-.hero {
+.banner {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,12 +59,18 @@ header nav ul li {
 /* MAIN */
 
 main {
-    width: 75%;
+    width: 100%;
     display: inline-block;
-    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
-/* SERVICES SECTIONS */
+/* SERVICES SECTION */
+
+.services{
+    width: 77%;
+    display: inline-block;
+}
 
 .service {
     margin-bottom: 20px;
@@ -96,12 +102,10 @@ main {
     margin-left: 25px;
 }
 
-/* BENEFITS ASIDE */
+/* BENEFITS SECTION */
 
 .benefits {
-    margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
     height: 100%;
